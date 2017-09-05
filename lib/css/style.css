@@ -25,6 +25,10 @@ body {
   cursor: pointer;
 }
 
+#c:active {
+  background-color: #db1d2d;
+}
+
 #c {
   background-color: #3e181b;
   border: 3px solid #db1d2d;
@@ -33,6 +37,10 @@ body {
 #d:hover {
   background-color: #6e2819;
   cursor: pointer;
+}
+
+#d:active {
+  background-color: #f0421c;
 }
 
 #d {
@@ -45,6 +53,9 @@ body {
   cursor: pointer;
 }
 
+#e:active {
+  background-color: #fec02d;
+}
 
 #e {
   background-color: #45391b;
@@ -54,6 +65,10 @@ body {
 #f:hover {
   background-color: #1b613b;
   cursor: pointer;
+}
+
+#f:active {
+  background-color: #20d071;
 }
 
 #f {
@@ -66,6 +81,10 @@ body {
   cursor: pointer;
 }
 
+#g:active {
+  background-color: #1a9ddb;
+}
+
 #g {
   background-color: #18323e;
   border: 3px solid #1a9ddb;
@@ -76,6 +95,10 @@ body {
   cursor: pointer;
 }
 
+#a:active {
+  background-color: #a13fad;
+}
+
 #a {
   background-color: #331f35;
   border: 3px solid #a13fad;
@@ -84,6 +107,10 @@ body {
 #b:hover {
   background-color: #6f3a32;
   cursor: pointer;
+}
+
+#b:active {
+  background-color: #f26fd4;
 }
 
 #b {
